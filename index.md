@@ -39,5 +39,5 @@ def good_vibe():
 - [README](./README.md)
 
 ## Vibes 📷
-![Latte love](https://i.postimg.cc/Kjqh3mXC/latte.jpg)  
-![Evening sky](https://i.postimg.cc/G3SxpYN0/sky.jpg)
+![Latte love](Picture/IMG_3203-min.JPG)  
+![Evening sky](Picture/IMG_3273-min.JPG)
