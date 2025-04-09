@@ -33,15 +33,10 @@ def good_vibe():
 ## Sparkles 📖
 > "A book must be the axe for the frozen sea within us." - Franz Kafka
 
-## External link 🔗
-[A book that I like](https://en.wikipedia.org/wiki/The_Alchemist_(novel))
-
-## Section link 🔗
-[Skills](#programmingskills)
-
-##
-Relative link 🔗
-[README](./README.md)
+## Links 🔗
+- [A book that I like](https://en.wikipedia.org/wiki/The_Alchemist_(novel))  
+- [Skills](#programming-skills)  
+- [README](./README.md)
 
 ## Vibes 📷
 ![Latte love](https://i.postimg.cc/Kjqh3mXC/latte.jpg)  
